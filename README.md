@@ -60,8 +60,6 @@ yarn start:traffic
 | `PRIVATE_KEY`          | Private key for the wallet                               |
 | `APP_ID`               | Reclaim API application ID                               |
 | `APP_SECRET`           | Reclaim API secret key                                   |
-| `THIRDWEB_API_KEY`     | API key for the Thirdweb storage provider                |
-| `PUBLIC_IMAGE_NFT`     | Public URL for the NFT images                            |
 
 
 
